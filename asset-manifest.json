@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DulayciousReact/static/css/main.0150835e.chunk.css",
+    "main.js": "/DulayciousReact/static/js/main.c719ea8a.chunk.js",
+    "main.js.map": "/DulayciousReact/static/js/main.c719ea8a.chunk.js.map",
+    "runtime-main.js": "/DulayciousReact/static/js/runtime-main.d81c4410.js",
+    "runtime-main.js.map": "/DulayciousReact/static/js/runtime-main.d81c4410.js.map",
+    "static/css/2.11829350.chunk.css": "/DulayciousReact/static/css/2.11829350.chunk.css",
+    "static/js/2.1e86fdbd.chunk.js": "/DulayciousReact/static/js/2.1e86fdbd.chunk.js",
+    "static/js/2.1e86fdbd.chunk.js.map": "/DulayciousReact/static/js/2.1e86fdbd.chunk.js.map",
+    "index.html": "/DulayciousReact/index.html",
+    "precache-manifest.3637ffbadb44072dab83a32d24c0f6c8.js": "/DulayciousReact/precache-manifest.3637ffbadb44072dab83a32d24c0f6c8.js",
+    "service-worker.js": "/DulayciousReact/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/DulayciousReact/static/css/2.11829350.chunk.css.map",
+    "static/css/main.0150835e.chunk.css.map": "/DulayciousReact/static/css/main.0150835e.chunk.css.map",
+    "static/js/2.1e86fdbd.chunk.js.LICENSE.txt": "/DulayciousReact/static/js/2.1e86fdbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d81c4410.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.1e86fdbd.chunk.js",
+    "static/css/main.0150835e.chunk.css",
+    "static/js/main.c719ea8a.chunk.js"
+  ]
+}
