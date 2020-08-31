@@ -1,6 +1,6 @@
 /* Body styles */
 body{
-    background-color: aquamarine;
+    background-image: linear-gradient(to right, rgb(236, 184, 40), rgb(41, 175, 63));
     text-align: center;
 }
 
@@ -57,7 +57,7 @@ button:hover{
 /* Jumbotron */
 
 .jumbotron{
-    background-color: rgb(71, 255, 184);
+    background-image: linear-gradient(red, white, blue);
     color: rgb(22, 23, 114);
     padding: 16px;
 }
