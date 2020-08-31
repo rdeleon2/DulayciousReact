@@ -1,6 +1,6 @@
 /* Body styles */
 body{
-    background-image: linear-gradient(to right, rgb(236, 184, 40), rgb(41, 175, 63));
+    background-image: linear-gradient(to right, rgba(236, 184, 40, .8), rgba(41, 175, 63,.9));
     text-align: center;
 }
 
@@ -63,6 +63,6 @@ button:hover{
 }
 
 .foods{
-    border: 5px solid rgb(129, 240, 181);
+    border: 5px solid rgb(216, 233, 140);
 
 }
