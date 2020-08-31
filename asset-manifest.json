@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DulayciousReact/static/css/main.b92b25bf.chunk.css",
+    "main.css": "/DulayciousReact/static/css/main.85165820.chunk.css",
     "main.js": "/DulayciousReact/static/js/main.bfff4f73.chunk.js",
     "main.js.map": "/DulayciousReact/static/js/main.bfff4f73.chunk.js.map",
     "runtime-main.js": "/DulayciousReact/static/js/runtime-main.d81c4410.js",
@@ -9,10 +9,10 @@
     "static/js/2.8c9787c6.chunk.js": "/DulayciousReact/static/js/2.8c9787c6.chunk.js",
     "static/js/2.8c9787c6.chunk.js.map": "/DulayciousReact/static/js/2.8c9787c6.chunk.js.map",
     "index.html": "/DulayciousReact/index.html",
-    "precache-manifest.07236eb434bd7babd4c39f1b47ef75a7.js": "/DulayciousReact/precache-manifest.07236eb434bd7babd4c39f1b47ef75a7.js",
+    "precache-manifest.ee18cecf4ca8cd70142666f04dadcbb4.js": "/DulayciousReact/precache-manifest.ee18cecf4ca8cd70142666f04dadcbb4.js",
     "service-worker.js": "/DulayciousReact/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/DulayciousReact/static/css/2.11829350.chunk.css.map",
-    "static/css/main.b92b25bf.chunk.css.map": "/DulayciousReact/static/css/main.b92b25bf.chunk.css.map",
+    "static/css/main.85165820.chunk.css.map": "/DulayciousReact/static/css/main.85165820.chunk.css.map",
     "static/js/2.8c9787c6.chunk.js.LICENSE.txt": "/DulayciousReact/static/js/2.8c9787c6.chunk.js.LICENSE.txt",
     "static/media/Kids.JPG": "/DulayciousReact/static/media/Kids.1b73728d.JPG",
     "static/media/Sun.png": "/DulayciousReact/static/media/Sun.df66cb2d.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.d81c4410.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.8c9787c6.chunk.js",
-    "static/css/main.b92b25bf.chunk.css",
+    "static/css/main.85165820.chunk.css",
     "static/js/main.bfff4f73.chunk.js"
   ]
 }
