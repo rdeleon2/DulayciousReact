@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/DulayciousReact/static/css/main.0150835e.chunk.css",
-    "main.js": "/DulayciousReact/static/js/main.5b9e227c.chunk.js",
-    "main.js.map": "/DulayciousReact/static/js/main.5b9e227c.chunk.js.map",
+    "main.css": "/DulayciousReact/static/css/main.49c4b4ab.chunk.css",
+    "main.js": "/DulayciousReact/static/js/main.4112590a.chunk.js",
+    "main.js.map": "/DulayciousReact/static/js/main.4112590a.chunk.js.map",
     "runtime-main.js": "/DulayciousReact/static/js/runtime-main.d81c4410.js",
     "runtime-main.js.map": "/DulayciousReact/static/js/runtime-main.d81c4410.js.map",
     "static/css/2.11829350.chunk.css": "/DulayciousReact/static/css/2.11829350.chunk.css",
-    "static/js/2.bf24b046.chunk.js": "/DulayciousReact/static/js/2.bf24b046.chunk.js",
-    "static/js/2.bf24b046.chunk.js.map": "/DulayciousReact/static/js/2.bf24b046.chunk.js.map",
+    "static/js/2.8c9787c6.chunk.js": "/DulayciousReact/static/js/2.8c9787c6.chunk.js",
+    "static/js/2.8c9787c6.chunk.js.map": "/DulayciousReact/static/js/2.8c9787c6.chunk.js.map",
     "index.html": "/DulayciousReact/index.html",
-    "precache-manifest.8aeca43c80b0b20ebf6443d9fafc19e8.js": "/DulayciousReact/precache-manifest.8aeca43c80b0b20ebf6443d9fafc19e8.js",
+    "precache-manifest.8b077aa8b456ce52f164ebe90d109f23.js": "/DulayciousReact/precache-manifest.8b077aa8b456ce52f164ebe90d109f23.js",
     "service-worker.js": "/DulayciousReact/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/DulayciousReact/static/css/2.11829350.chunk.css.map",
-    "static/css/main.0150835e.chunk.css.map": "/DulayciousReact/static/css/main.0150835e.chunk.css.map",
-    "static/js/2.bf24b046.chunk.js.LICENSE.txt": "/DulayciousReact/static/js/2.bf24b046.chunk.js.LICENSE.txt",
-    "static/media/Kids.JPG": "/DulayciousReact/static/media/Kids.1b73728d.JPG"
+    "static/css/main.49c4b4ab.chunk.css.map": "/DulayciousReact/static/css/main.49c4b4ab.chunk.css.map",
+    "static/js/2.8c9787c6.chunk.js.LICENSE.txt": "/DulayciousReact/static/js/2.8c9787c6.chunk.js.LICENSE.txt",
+    "static/media/Kids.JPG": "/DulayciousReact/static/media/Kids.1b73728d.JPG",
+    "static/media/Sun.png": "/DulayciousReact/static/media/Sun.df66cb2d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d81c4410.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.bf24b046.chunk.js",
-    "static/css/main.0150835e.chunk.css",
-    "static/js/main.5b9e227c.chunk.js"
+    "static/js/2.8c9787c6.chunk.js",
+    "static/css/main.49c4b4ab.chunk.css",
+    "static/js/main.4112590a.chunk.js"
   ]
 }
