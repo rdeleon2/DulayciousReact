@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c149aa18aff9770d0a461f29c2938fc3",
+    "revision": "d3ede30a68e3e26f6e470f2ee9b050f0",
     "url": "/DulayciousReact/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DulayciousReact/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "c7ac2b870e1c473a53a0",
-    "url": "/DulayciousReact/static/css/main.9b78863e.chunk.css"
+    "revision": "bcc0b34d53b4c7000a39",
+    "url": "/DulayciousReact/static/css/main.fc77fcf0.chunk.css"
   },
   {
     "revision": "3fe444e169155f4c160a",
@@ -20,12 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DulayciousReact/static/js/2.8c9787c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c7ac2b870e1c473a53a0",
-    "url": "/DulayciousReact/static/js/main.bfff4f73.chunk.js"
+    "revision": "bcc0b34d53b4c7000a39",
+    "url": "/DulayciousReact/static/js/main.dbce1a44.chunk.js"
   },
   {
     "revision": "ea31eb414ded0d60de88",
     "url": "/DulayciousReact/static/js/runtime-main.d81c4410.js"
+  },
+  {
+    "revision": "0f24a549d52d7ade52e237959070c2db",
+    "url": "/DulayciousReact/static/media/EmblemStarYellowShadow.0f24a549.png"
   },
   {
     "revision": "1b73728dc9974248e9ef28fa850c4d08",
