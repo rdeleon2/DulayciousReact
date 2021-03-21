@@ -4,35 +4,35 @@ const FOODS = [
         name: "Fried Rice",
         img: "images/dishes/FriedRice.JPG",
         description: "Stir fried rice with egg, peas, carrots. Your choice of chicken, garlic or shrimp",
-        price: "Half-Pan: $25 Full-Pan: $45"
+        price: "Half-Pan: $45 Full-Pan: $70"
     },
     {
         id: 2,
         name: "Pancit",
         img: "images/dishes/Pancit1.JPG",
-        description: "Contains noodles and other stuff",
-        price: "Half-Pan: $25 Full-Pan: $45 "
+        description: "Choice of: Chicken, Shrimp or Veggie, Cabbage, carrots, string beans, sugar peas, vermicelli noodles",
+        price: "Half-Pan: $40 Full-Pan: $75 "
     },    
     {
         id: 3,
         name: "Palabok",
         img: "",
-        description: "Contains noodles and other stuff",
-        price: "Half-Pan: $25 Full-Pan: $45 "
+        description: "Choice of: Shrimp, Chicken or Beef, Cabbage, carrots, string beans, sugar peas, vermicelli noodles",
+        price: "Half-Pan: $40 Full-Pan: $70 "
     },
     {
         id: 4,
         name: "Lumpia",
         img: "images/dishes/EggRolls1.JPG",
-        description: "Fried with stuff chicken, beef, or pork",
-        price: "50pcs: $50 100pcs: $80 "
+        description: "Fried with stuff chicken, beef, or pork, Cabbage, Carrots. Sugar Peas, String Beans, Beans Sprouts, Lumpia wrapper, Dip Choice: Sweet Chili Sause, Garlic Vinegar (Spicy)",
+        price: "50pcs: $65 100pcs: $120 "
     },
     {
         id: 5,
         name: "Okoy",
         img: "images/dishes/OkoyBatch.JPG",
-        description: "Contains food",
-        price: "25pcs: $25 50pcs: $45 "
+        description: "Shrimp, Sweet Potato, Carrots, Bean Sprouts, Garlic, Onion, Fish Ball (optional)",
+        price: "1pc: $2.50 50pcs: $150 "
     },
     {
         id: 6,

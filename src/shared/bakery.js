@@ -1,16 +1,9 @@
 const bakery = [
     {
         id: '0',
-        name:'Square Pandesal',
+        name:'Pandesal',
         img: 'images/baking/SquarePandesal.jpg',
-        description: 'This is good',
-        price: '$2 for 6, $4 for 12'
-    },
-    {
-        id: '1',
-        name: 'Circle Pandesal',
-        img: 'images/baking/CirclePandesal.jpg',
-        description: 'This is good',
+        description: 'flour, egg, sugar, butter, water, salt and milk',
         price: '$2 for 6, $4 for 12'
     },
     
@@ -31,22 +24,23 @@ const cakes = [
         id: '0',
         name: 'Mocha Cake',
         img: 'images/baking/Sliced Mocha Cake.JPG',
-        description: 'This is good',
+        description: 'Coffee, flour, egg, butter, whipping cream and sugar',
         price: '$10 a roll'
     },
     {
         id: '1',
         name: 'Ube Cake',
         img: 'images/baking/Sliced Ube Cake.JPG',
-        description: 'This is good',
+        description: 'Ube, flour, egg, butter, whipping cream and sugar',
         price: '$10 a roll'
     },
     {
         id: '2',
-        name:'Brasso',
+        name:'Braso de Mercedes',
         img: 'images/baking/Brasso.JPG',
-        description: 'This is good',
-        price: '$15 a roll'
+        description: 'Egg, sugar, cream of tartar',
+        //flavors: ube, mango, pandan
+        price: '$20 a roll'
     },
 ]
 
@@ -55,15 +49,16 @@ const others = [
         id: '0',
         name:'Cookies',
         img: 'images/baking/Cookies.jpg',
-        description: 'This is good',
+        description: 'flour, brown sugar, butter',
+        //toppings per request. chooclate chips pecans, almonds
         price: '$3 for 6, $6 for 12'
     },
     {
         id: '1',
         name:'Puto',
         img: 'images/baking/Puto.JPG',
-        description: 'This is good',
-        price: '$7 for 12'
+        description: 'wheat flower, baking powder, salt, sugar, water, vegetable oil',
+        price: '50pcs/$20 100pcs/$40'
     },
 ]
 

@@ -38,6 +38,14 @@ img {
     width: auto;
 }
 
+img.header{
+    border-style: none;
+    border-radius: 0%;
+    transform: rotate(30deg);
+    height: 500px;
+    width: auto;
+}
+
 /* button styles */
 
 button {
@@ -55,7 +63,7 @@ button:hover{
 /* Jumbotron */
 
 .jumbotron{
-    background-image: linear-gradient(red, white, blue);
+    /*background-image: linear-gradient(red, white, blue);*/
     color: rgb(22, 23, 114);
     padding: 16px;
 }
