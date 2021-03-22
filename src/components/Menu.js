@@ -165,7 +165,10 @@ class Menu extends Component {
                                     name={list.name}
                                     img={list.img}
                                     description={list.description}
+                                    type={list.type}
                                     price={list.price}
+                                    secondaryPrice={list.secondaryPrice}
+                                    thirdPrice={list.thirdPrice}
                                 />
                             })}
                         </div>

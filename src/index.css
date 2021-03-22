@@ -4,7 +4,7 @@ body{
 }
 
 p{
-    padding-top: 20px;
+    padding-top: 5px;
 }
 /* Header styles */
 .header{
@@ -71,4 +71,10 @@ button:hover{
 .foods{
     border: 5px solid rgb(235, 235, 225);
 
+}
+
+/* Food */
+
+.description{
+    background-color: rgb(244, 253, 117);
 }

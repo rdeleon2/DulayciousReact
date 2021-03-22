@@ -5,8 +5,13 @@ function Foods(props) {
         <div className="col-lg-4 col-md-6 col-sm-12 text-center foods">
             <h2>{props.name}</h2>
             <img src={props.img} alt={props.name} />
-            <p>{props.description}</p>
-            <p>Price: {props.price}</p>
+            <div className="description">
+                <p>{props.description}</p>
+                <p>{props.type}
+                <br></br>{props.price}
+                <br></br>{props.secondaryPrice}
+                <br></br>{props.thirdPrice}</p>
+            </div>
         </div>
     )
 }
