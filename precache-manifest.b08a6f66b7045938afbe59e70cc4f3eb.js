@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fdafef55d162d91ca5a8c3a4569d625a",
+    "revision": "1aa5873fb85b77ee77ac1db95dc7030a",
     "url": "/DulayciousReact/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DulayciousReact/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "a176caed3639a17c47cc",
-    "url": "/DulayciousReact/static/css/main.db47196a.chunk.css"
+    "revision": "421937f6af296a078bf5",
+    "url": "/DulayciousReact/static/css/main.a2f20c59.chunk.css"
   },
   {
     "revision": "3fe444e169155f4c160a",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DulayciousReact/static/js/2.8c9787c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a176caed3639a17c47cc",
-    "url": "/DulayciousReact/static/js/main.30617f60.chunk.js"
+    "revision": "421937f6af296a078bf5",
+    "url": "/DulayciousReact/static/js/main.9cc368bb.chunk.js"
   },
   {
     "revision": "ea31eb414ded0d60de88",
