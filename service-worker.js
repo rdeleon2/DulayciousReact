@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DulayciousReact/precache-manifest.b08a6f66b7045938afbe59e70cc4f3eb.js"
+  "/DulayciousReact/precache-manifest.733e2961ccf8f875b10827c5f21a0a1d.js"
 );
 
 self.addEventListener('message', (event) => {
