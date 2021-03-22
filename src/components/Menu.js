@@ -222,7 +222,7 @@ class Menu extends Component {
                         </div>
                     </div>
                     <div>
-                        <h1>Soup Dishes</h1>
+                        <h1>Main Dishes</h1>
                         <div className="container">
                             <div className="row">
                                 {soups.map((list) => {
