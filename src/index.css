@@ -63,8 +63,8 @@ button:hover{
 /* Jumbotron */
 
 .jumbotron{
-    /*background-image: linear-gradient(red, white, blue);*/
-    color: rgb(22, 23, 114);
+    /*background-image: linear-gradient(red, white, blue);
+    color: rgb(22, 23, 114);*/
     padding: 16px;
 }
 
@@ -77,4 +77,8 @@ button:hover{
 
 .description{
     background-color: rgb(244, 253, 117);
+}
+
+.price{
+    background-color: slateblue;
 }
