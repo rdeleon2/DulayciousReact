@@ -7,6 +7,8 @@ import food from '../shared/food';
 import noodles from '../shared/noodles';
 import Soup from './Food/Soup';
 import soups from '../shared/soups';
+import Appetizer from './Food/Appetizer';
+import appetizers from '../shared/appetizers';
 
 
 class Menu extends Component {
@@ -162,6 +164,26 @@ class Menu extends Component {
             menu = (
                 <div>
                     <div>
+                        <h1>Appetizers/Sides</h1>
+                        <div className="container">
+                            <div className="row">
+                                {appetizers.map((list) => {
+                                    return <Appetizer
+                                        key={list.id}
+                                        name={list.name}
+                                        img={list.img}
+                                        description={list.description}
+                                        type={list.type}
+                                        price={list.price}
+                                        secondaryPrice={list.secondaryPrice}
+                                        thirdPrice={list.thirdPrice}
+                                        fourthPrice={list.fourthPrice}
+                                    />
+                                })}
+                            </div>
+                        </div>
+                    </div>
+                    <div>
                         <h1>Rice Dishes</h1>
                         <div className="container">
                             <div className="row">
@@ -213,6 +235,8 @@ class Menu extends Component {
                                         price={list.price}
                                         secondaryPrice={list.secondaryPrice}
                                         thirdPrice={list.thirdPrice}
+                                        fourthPrice={list.fourthPrice}
+                                        fifthPrice={list.fourthPrice}
                                     />
                                 })}
                             </div>

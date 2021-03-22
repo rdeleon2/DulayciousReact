@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Soups(props) {
+function Appetizers(props) {
     return (
         <div className="col-lg-4 col-md-6 col-sm-12 text-center foods">
             <h2>{props.name}</h2>
@@ -10,10 +10,9 @@ function Soups(props) {
                 <br></br>{props.price}
                 <br></br>{props.secondaryPrice}
                 <br></br>{props.thirdPrice}
-                <br></br>{props.fourthPrice}
-                <br></br>{props.fifthPrice}</p>
+                <br></br>{props.fourthPrice}</p>
         </div>
     )
 }
 
-export default Soups;
+export default Appetizers;
