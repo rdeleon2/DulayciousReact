@@ -2,7 +2,11 @@ import React, { Component } from 'react';
 import bakery, { cakes, pandesal, others } from '../shared/bakery';
 import Bakery from './Bakery/Bakery';
 import Food from './Food/Food';
+import Noodle from './Food/Noodle';
 import food from '../shared/food';
+import noodles from '../shared/noodles';
+import Soup from './Food/Soup';
+import soups from '../shared/soups';
 
 
 class Menu extends Component {
@@ -157,20 +161,61 @@ class Menu extends Component {
         if (this.state.showMenu) {
             menu = (
                 <div>
-                    <div className="container">
-                        <div className="row">
-                            {food.map((list) => {
-                                return <Food
-                                    key={list.id}
-                                    name={list.name}
-                                    img={list.img}
-                                    description={list.description}
-                                    type={list.type}
-                                    price={list.price}
-                                    secondaryPrice={list.secondaryPrice}
-                                    thirdPrice={list.thirdPrice}
-                                />
-                            })}
+                    <div>
+                        <h1>Rice Dishes</h1>
+                        <div className="container">
+                            <div className="row">
+                                {food.map((list) => {
+                                    return <Food
+                                        key={list.id}
+                                        name={list.name}
+                                        img={list.img}
+                                        description={list.description}
+                                        type={list.type}
+                                        price={list.price}
+                                        secondaryPrice={list.secondaryPrice}
+                                        thirdPrice={list.thirdPrice}
+                                    />
+                                })}
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <h1>Noodle Dishes</h1>
+                        <div className="container">
+                            <div className="row">
+                                {noodles.map((list) => {
+                                    return <Noodle
+                                        key={list.id}
+                                        name={list.name}
+                                        img={list.img}
+                                        description={list.description}
+                                        type={list.type}
+                                        price={list.price}
+                                        secondaryPrice={list.secondaryPrice}
+                                        thirdPrice={list.thirdPrice}
+                                    />
+                                })}
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <h1>Soup Dishes</h1>
+                        <div className="container">
+                            <div className="row">
+                                {soups.map((list) => {
+                                    return <Soup
+                                        key={list.id}
+                                        name={list.name}
+                                        img={list.img}
+                                        description={list.description}
+                                        type={list.type}
+                                        price={list.price}
+                                        secondaryPrice={list.secondaryPrice}
+                                        thirdPrice={list.thirdPrice}
+                                    />
+                                })}
+                            </div>
                         </div>
                     </div>
                 </div>
