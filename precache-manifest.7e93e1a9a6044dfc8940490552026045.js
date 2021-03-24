@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a2563168d3a0e06f227eccdf77cb524",
+    "revision": "52b89795bd54f5f6763db7f45c8e0f15",
     "url": "/DulayciousReact/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DulayciousReact/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "1f757239b7ac12220790",
+    "revision": "535ba42f3cb7d817a612",
     "url": "/DulayciousReact/static/css/main.a2f20c59.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DulayciousReact/static/js/2.8c9787c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f757239b7ac12220790",
-    "url": "/DulayciousReact/static/js/main.a177c19c.chunk.js"
+    "revision": "535ba42f3cb7d817a612",
+    "url": "/DulayciousReact/static/js/main.96fa782d.chunk.js"
   },
   {
     "revision": "ea31eb414ded0d60de88",
@@ -34,9 +34,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1b73728dc9974248e9ef28fa850c4d08",
     "url": "/DulayciousReact/static/media/Kids.1b73728d.JPG"
-  },
-  {
-    "revision": "df66cb2d49500876ca7a35522a2ade54",
-    "url": "/DulayciousReact/static/media/Sun.df66cb2d.png"
   }
 ]);
