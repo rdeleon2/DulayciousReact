@@ -9,6 +9,7 @@ import Soup from './Food/Soup';
 import soups from '../shared/soups';
 import Appetizer from './Food/Appetizer';
 import appetizers from '../shared/appetizers';
+import ContactInfo from './ContactInfo/ContactInfo';
 
 
 class Menu extends Component {
@@ -253,7 +254,7 @@ class Menu extends Component {
                 <h2 onClick={this.toggleBakeShopHandler}>Dulaycious Bakery</h2>
                 {bakeShop}
                 <h2>Catering</h2>
-                <h2>Order</h2>
+                <ContactInfo/>
             </div>
         )
     }
