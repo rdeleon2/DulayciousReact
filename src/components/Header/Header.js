@@ -1,5 +1,4 @@
 import React from 'react';
-import sun from './img/Sun.png';
 import emblem from './img/EmblemStarYellowShadow.png';
 
 function Header (){
