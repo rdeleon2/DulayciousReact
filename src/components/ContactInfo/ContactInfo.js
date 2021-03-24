@@ -5,7 +5,7 @@ const ContactInfo = () => {
         <div>
             <p>Please give us a 3 day notice when making an order. <br></br>If contacting by email we will respond to you within a day.<br></br>Thank you</p>
             <p>Email: dulayciouscatering@gmail.com</p>
-            <p>Phone Number: (206)650-7042</p>
+            <p>Phone Number: (206)650-7042, (206)972-6044</p>
         </div>
     )
 }
