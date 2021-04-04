@@ -2,7 +2,7 @@ const Noodles = [
     {
         id: 0,
         name: "Pancit",
-        img: "images/dishes/Pancit1.JPG",
+        img: "images/dishes/VeggiePancitPlate2",
         description: "Cabbage, carrots, string beans, sugar peas, vermicelli noodles",
         type: "Your choice of Chicken, Veggie or Shrimp",
         price: "Veggie: Half-Tray/$40 Full-Tray/$70",

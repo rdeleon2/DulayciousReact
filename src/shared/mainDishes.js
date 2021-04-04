@@ -1,4 +1,4 @@
-const SOUPS = [
+const MAINDISHES = [
     {
         id: 0,
         name: "Sinigang",
@@ -62,7 +62,16 @@ const SOUPS = [
         secondaryPrice: "Shrimp: Half-Tray/$50 Full-Tray/$100",
         thirdPrice: "Crab: Market Price"
     },
+    {
+        id: 6,
+        name: "Sweet & Sour Fish",
+        img: "images/dishes/Sweet&SourSnapperPlate2.jpeg",
+        description: "Garlic, Ginger, Bell Peppers, Pineappple Chunk, Pineapple Juice, Sweet/Sour Sauce, Tofu",
+        type: "Your choice of Red Snapper or Tilapia",
+        price: "Tilipia: Half-Tray/$50 Full-Tray/$90",
+        secondaryPrice: "Red Snapper: Half-Tray/$60 Full-Tray/$100"
+    },
 
 ]
 
-export default SOUPS;
+export default MAINDISHES;

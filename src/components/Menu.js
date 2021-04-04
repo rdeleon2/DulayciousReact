@@ -5,8 +5,8 @@ import Food from './Food/Food';
 import Noodle from './Food/Noodle';
 import food from '../shared/food';
 import noodles from '../shared/noodles';
-import Soup from './Food/Soup';
-import soups from '../shared/soups';
+import MaindDishes from './Food/MainDishes';
+import mainDishes from '../shared/mainDishes';
 import Appetizer from './Food/Appetizer';
 import appetizers from '../shared/appetizers';
 import ContactInfo from './ContactInfo/ContactInfo';
@@ -226,8 +226,8 @@ class Menu extends Component {
                         <h1>Main Dishes</h1>
                         <div className="container">
                             <div className="row">
-                                {soups.map((list) => {
-                                    return <Soup
+                                {mainDishes.map((list) => {
+                                    return <MaindDishes
                                         key={list.id}
                                         name={list.name}
                                         img={list.img}

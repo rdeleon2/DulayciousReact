@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Soups(props) {
+function MainDishes(props) {
     return (
         <div className="col-lg-4 col-md-6 col-sm-12 text-center foods">
             <h2>{props.name}</h2>
@@ -16,4 +16,4 @@ function Soups(props) {
     )
 }
 
-export default Soups;
+export default MainDishes;
