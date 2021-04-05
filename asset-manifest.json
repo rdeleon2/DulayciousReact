@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DulayciousReact/static/css/main.a2f20c59.chunk.css",
-    "main.js": "/DulayciousReact/static/js/main.96fa782d.chunk.js",
-    "main.js.map": "/DulayciousReact/static/js/main.96fa782d.chunk.js.map",
+    "main.js": "/DulayciousReact/static/js/main.1cbc6536.chunk.js",
+    "main.js.map": "/DulayciousReact/static/js/main.1cbc6536.chunk.js.map",
     "runtime-main.js": "/DulayciousReact/static/js/runtime-main.d81c4410.js",
     "runtime-main.js.map": "/DulayciousReact/static/js/runtime-main.d81c4410.js.map",
     "static/css/2.11829350.chunk.css": "/DulayciousReact/static/css/2.11829350.chunk.css",
     "static/js/2.8c9787c6.chunk.js": "/DulayciousReact/static/js/2.8c9787c6.chunk.js",
     "static/js/2.8c9787c6.chunk.js.map": "/DulayciousReact/static/js/2.8c9787c6.chunk.js.map",
     "index.html": "/DulayciousReact/index.html",
-    "precache-manifest.7e93e1a9a6044dfc8940490552026045.js": "/DulayciousReact/precache-manifest.7e93e1a9a6044dfc8940490552026045.js",
+    "precache-manifest.64867612ffe6d7f5d124324c1d548693.js": "/DulayciousReact/precache-manifest.64867612ffe6d7f5d124324c1d548693.js",
     "service-worker.js": "/DulayciousReact/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/DulayciousReact/static/css/2.11829350.chunk.css.map",
     "static/css/main.a2f20c59.chunk.css.map": "/DulayciousReact/static/css/main.a2f20c59.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.8c9787c6.chunk.js",
     "static/css/main.a2f20c59.chunk.css",
-    "static/js/main.96fa782d.chunk.js"
+    "static/js/main.1cbc6536.chunk.js"
   ]
 }
